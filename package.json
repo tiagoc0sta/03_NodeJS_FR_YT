@@ -1,0 +1,14 @@
+{
+  "name": "03_nodejs_fr_yt",
+  "version": "1.0.0",
+  "description": "curso nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
