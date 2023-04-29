@@ -4,6 +4,15 @@ const UserModel = require('../src/models/user.model');
 const app = express();
 app.use(express.json());
 
+//Midleware - função executada antes de qualquer requisição
+app.use((req, res, next) => {
+  console.log(`Request Type: ${req.method}`);
+  console.log(`Content Type: ${req.headers['content-type']}`);
+  console.log(`Date: ${new Date()}`);
+
+  next();
+});
+
 //buscar users
 app.get('/users', async (req, res) => {
   try {
