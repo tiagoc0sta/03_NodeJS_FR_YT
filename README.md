@@ -1,4 +1,4 @@
-# FR - YT - Node.js CRUDE
+# FR - YT - Node.js CRUD
 
 Technologies used:
 
