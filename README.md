@@ -10,7 +10,7 @@ Technologies used:
 
 ## Authors
 
-- [ Node.JS CRUDE - link here ](https://www.youtube.com/watch?v=IOfDoyP1Aq0)
+- [ Node.JS CRUD - link here ](https://www.youtube.com/watch?v=IOfDoyP1Aq0)
 
 ## Example
 
